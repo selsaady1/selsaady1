@@ -1,3 +1,6 @@
+![ChatGPT Image May 8, 2025, 11_50_27 AM](https://github.com/user-attachments/assets/811b1a36-305c-45c1-8acf-0e8050d8913d)
+
+
 # 💫 About Me:
 👋 Hi, I'm Saif Elsaady<br><br>🎓 I’m currently pursuing my Master’s degree in Electrical Engineering at Arizona State University<br>🤝 I’m looking to collaborate on projects that make a real-world impact<br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
 
