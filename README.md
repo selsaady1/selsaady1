@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Saif Elsaady<br><br> impact<br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
+👋 Hi, I'm Saif Elsaady<br><br> <br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
 
 ## 🎓 Education
 - **MS** in Electrical & Computer Engineering (AI/ML), Arizona State University — *May 2026*
