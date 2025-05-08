@@ -3,13 +3,12 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Saif Elsaady<br><br>🎓 I’m currently pursuing my Master’s degree in Electrical Engineering at Arizona State University<br>🤝 I’m looking to collaborate on projects that make a real-world impact<br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
+👋 Hi, I'm Saif Elsaady<br><br> impact<br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
 
 ## 🎓 Education
 - **MS** in Electrical & Computer Engineering (AI/ML), Arizona State University — *May 2026*
 - **BSE** in Electrical Systems Engineering, Arizona State University 
 - **BS** in Data Science (Mathematics), Arizona State University 
-- **Lean Six Sigma Black Belt Certificate** — * 2026*
 
 ---
 
