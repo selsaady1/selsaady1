@@ -23,7 +23,7 @@
 
 ## 🛠 Hardware Experience
 
-- 🔧 **Flight Controller Development** – Modeled IMU data with Kalman filtering, integrated PCB subsystems, and managed full system lifecycle
+- 🔧 **Flight Controller Development** – Modeled IMU data with Kalman filtering, integrated PCB subsystems, and managed system lifecycle
 - 📡 **UAV Hardware Integration** – Designed power regulation + signal integrity for UAV platforms using Veronte Autopilot
 - 🌦 **Weather Station** – Created a custom PCB-based mobile weather system with I2C/SPI sensors and efficient power design
 - 🧥 **Adaptive Apparel PCB** – Engineered low-power wearable system using BLE microcontroller and C++ firmware
