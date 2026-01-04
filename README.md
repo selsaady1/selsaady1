@@ -2,13 +2,18 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I'm Saif Elsaady<br> <br>🧠 My interests include hardware design, AI/ML, and systems integration & testing<br>⚽ Fun fact: I coach youth soccer at Real Salt Lake Arizona
 
 ## 🎓 Education
-- **MS**, Electrical & Computer Engineering (AI/ML), Arizona State University — *May 2026*
-- **BSE**, Electrical Systems Engineering, Arizona State University 
-- **BS**, Data Science (Mathematics), Arizona State University 
+- **MSE**, Electrical Engineering, Arizona State University
+  - 🏆 **Graduated with Distinction (4.0 GPA)** - 🌟 [Read my Graduate Spotlight Feature](https://news.engineering.asu.edu/graduate/saif-elsaady/)
+- **MS**, Computational Life Sciences, Arizona State University
+  - 🏆 **Graduated with Distinction (4.0 GPA)**
+- **BSE**, Electrical Systems Engineering, Arizona State University
+  - 🏆 **Graduated with Distinction (4.0 GPA)**
+- **BS**, Data Science (Mathematics), Arizona State University
+  - 🏆 **Graduated with Distinction (4.0 GPA)**
 
 ---
 
