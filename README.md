@@ -2,6 +2,24 @@
 
 
 
+## ⭐ Featured Projects
+
+My best hardware and machine-learning work:
+
+### 🔧 Hardware & Embedded
+- **[UAV Hardware Integration System](https://github.com/selsaady1/UAV-Hardware-Integration-System)** — Custom PCB, Veronte autopilot configuration, and 22V→9V/5V power distribution with 2.4 GHz comms for autonomous quadcopter flight.
+- **[Servo-Controlled Testing System](https://github.com/selsaady1/Servo-Controlled-Testing-System)** — Arduino servo PWM control with real-time load-cell & LVDT feedback, built for a quantum-computing lab.
+- **[Microcontrollers in Smart Systems](https://github.com/selsaady1/egr338-microcontrollers-smart-systems)** — Embedded-C microcontroller labs (PIC, UART/SPI/I²C) and a smart-systems project.
+
+### 🤖 Machine Learning
+- **[ML Hardware Failure Classifier](https://github.com/selsaady1/ML-Hardware-Failure-Classifier)** — Dual-CNN architecture that localizes failures on specific regions of a chip.
+- **[Heart Disease ML Prediction System](https://github.com/selsaady1/Heart-Disease-ML-Prediction-System)** — 94.44% diagnostic accuracy across 6 supervised algorithms (SVM, Random Forest, Neural Nets) on clinical records.
+- **[Submarine Mine Detection System](https://github.com/selsaady1/Submarine-Mine-Detection-System)** — PCA dimensionality reduction (60→8) + MLP neural network sonar classifier at 88.89% accuracy.
+
+> 📂 Full coursework portfolio: **[selsaady1.github.io/portfolio](https://selsaady1.github.io/portfolio)**
+
+---
+
 # 💫 About Me
 👋 Hi, I'm Saif Elsaady!<br>
 
