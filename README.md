@@ -28,6 +28,30 @@
 
 ---
 
+## 🔗 Project Repositories
+
+A selection of my coursework projects, with a visual index at **[selsaady1.github.io/portfolio](https://selsaady1.github.io/portfolio)**:
+
+**Energy & Power**
+- [Photovoltaic Energy Conversion](https://github.com/selsaady1/eee591-photovoltaic-final-project) — *EEE 591*: Residential grid-connected PV + battery system — net metering vs net billing (Python).
+- [Microgrid Design & Operation](https://github.com/selsaady1/egr476-microgrid-design) — *EGR 476/598*: Microgrid design and operation course projects.
+
+**Hardware & Embedded**
+- [Microcontrollers in Smart Systems](https://github.com/selsaady1/egr338-microcontrollers-smart-systems) — *EGR 338*: Microcontroller labs, embedded C, and a smart-systems project.
+- [Design of Electrical Systems](https://github.com/selsaady1/egr330-electrical-systems-design) — *EGR 330*: Electrical systems design labs and a final design project.
+
+**Semiconductors & Research**
+- [Semiconductor Device Modeling](https://github.com/selsaady1/eee533-semiconductor-devices) — *EEE 533*: Device modeling with Silvaco TCAD plus Python/MATLAB solvers.
+- [Conservation & Ecology Research Poster](https://github.com/selsaady1/bio411-research-poster) — *BIO 411*: Quantitative methods research poster with R analysis.
+
+**Data Science**
+- [Geospatial Analysis (Python GIS)](https://github.com/selsaady1/gis322-geospatial-final-project) — *GIS 322*: Python GIS module work and a geospatial final project.
+- [Data Analysis & Visualization in R](https://github.com/selsaady1/bio479-data-analysis-visualization-r) — *BIO 479/579*: Exploratory data analysis and visualization in R.
+
+**Software**
+- [Applied Numerical Methods](https://github.com/selsaady1/mat421-numerical-methods) — *MAT 421*: Applied numerical & computational methods course project.
+
+
 ## 🛠 Hardware Experience
 
 - 🔧 **Flight Controller Development** – Modeled IMU data with Kalman filtering, integrated PCB subsystems, and managed system lifecycle
